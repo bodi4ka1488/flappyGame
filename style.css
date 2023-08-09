@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  user-select: none;
+}
+div {
+  display: flex;
+  width: 500px;
+  justify-content: space-around;
+}
+button {
+  margin-top: 40px;
+}
